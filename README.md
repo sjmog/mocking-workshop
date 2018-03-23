@@ -17,7 +17,7 @@ This workshop demonstrates:
 
 - Wrap the `assert_equal` method into a class called `Test`, and separate tests out to a `docking_station_spec.rb` file.
 
-#### :red_heart:
+#### :heart:
 
 - Take the code from `docking_station.rb`, lines 58 and 59. Make a `double(working?: true)` method that returns an object which can be used to pass the test. Use this new `double` method in the other test.
 
